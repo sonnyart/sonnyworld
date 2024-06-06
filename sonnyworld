@@ -1,6 +1,8 @@
-~ $ git clone https://github.com/sonnyart/sonnyworld.io
-~ $ cd sonnyart.github.io
-~ $ echo "hello World" > index.html
-~ $ git add --all
-~ $ git commit -m "Initial commit"
-~ $ git push -u origin main
+<div class="text text-center">
+						<span class="subheading">Hey! I am</span>
+						<h1>손효승</h1>
+						<h2>I'm a 3d environment artist at xlgames
+							<span class="txt-rotate" data-period="500"
+								data-rotate='[  "아티스트", "스타트업 개발자", "6년차"]'></span>
+						</h2>
+					</div>
